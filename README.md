@@ -9,11 +9,10 @@ let currentDate = date().format('dd-mm-yyyy');
 
 ## FORMAT combinations
 
-<h2> the format can be used with different combinations </h2>
-
 <h4>
     <ul>
         <li> mm - dd - yyyy </li>
         <li> dd - mm -yy </li>
+        <li> You got an idea, you can change the place of mm, dd, yy, yyyy</li>
     <ul>
 </h4>
