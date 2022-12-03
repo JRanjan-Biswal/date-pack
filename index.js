@@ -60,9 +60,9 @@ function getDate(dateFromUser = Date.now()) {
 
 }
 
-// module.exports = getDate;
+module.exports = getDate;
 
-console.log(getDate().format('mm-yyyy-dd'))
+// console.log(getDate().format('mm-yyyy-dd'))
 
 // let m = inputDate('subtract_days_from_date', '2021-03-25')('5')
 
